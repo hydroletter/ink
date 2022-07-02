@@ -1,0 +1,2 @@
+# ink
+my blog

@@ -1,0 +1,4 @@
+baseURL: https://hydroletter.github.io/ink/
+languageCode: en-us
+title: HydroLetter
+theme: "PaperMod"
